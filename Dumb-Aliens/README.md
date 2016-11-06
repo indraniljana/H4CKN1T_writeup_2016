@@ -10,3 +10,6 @@ One of them has lost a key to log in to its personal computer. The flag to enter
 I opened the given Q4.class file in a text editor and found a suspicious looking leet string, which turned out to be the flag.
 EZ PZ
 
+<p align="center">
+<img src="https://github.com/indraniljana/H4CKN1T_writeup_2016/blob/master/Dumb-Aliens/q4.JPG"/>
+</p>
