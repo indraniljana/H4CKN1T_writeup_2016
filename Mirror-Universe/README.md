@@ -1,4 +1,4 @@
-Problem:
+<b>Problem:</b>
 
 In the Leet galaxy, as the spaceship landed on Trevn, Nyna's excitement to see her twin-brother made her jump in the shuttle.
 After all, this was a moment she had been waiting since major parts of the star, Geria got destroyed and 
@@ -8,10 +8,8 @@ her family travelled to a mirror universe far far away when Alan was just a year
 "czBlN2wgN3VlMzMgbDM0ZTUu", replied the intelligent Mark I.
 
 As we know, androids always reply in a hashed way, help Nyna decode Mark I's reply. 
-
-
-
-Solution:
+<br><br><br>
+<b>Solution:</b>
 
 The reply is in Base64 encoded format, as can be realized if it is checked online for encoding detection on any of 
 the abundantly available sites.
