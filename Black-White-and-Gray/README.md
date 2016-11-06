@@ -6,6 +6,10 @@ Can you tell what Alan found?
 
 The following image file was included:
 
+<p align="center">
+<img src="https://github.com/indraniljana/H4CKN1T_writeup_2016/blob/master/Black-White-and-Gray/Q3.png"/>
+</p>
+
 
 
 Solution:
@@ -15,3 +19,6 @@ Hmm, verry inconspicuous.
 I opened it in paint, selected the colouring bucket, and filled in a random spot on the image.
 The flag appeared as shown:
 
+<p align="center">
+<img src="https://github.com/indraniljana/H4CKN1T_writeup_2016/blob/master/Black-White-and-Gray/Q3%20-%20Copy.png"/>
+</p>
