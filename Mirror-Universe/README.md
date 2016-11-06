@@ -16,5 +16,6 @@ the abundantly available sites.
 Sadly, the string we receive upon direct b64 decryption, “s0e7l 7ue33 l34e5.”, is not the flag.
 Furthermore, it does not really make any sense if we try to read it.
 However, if we look closely, keeping in mind that it is supposed to give us an age, we can after a few guesses figure out 
-that the flag will actually be “f0r7y 7hr33 y34r5”, which reads “forty three years”.
+that the flag will actually be “f0r7y 7hr33 y34r5.”, which reads “forty three years”.
 I submitted this flag and it was accepted.
+(Note the period at the end of the flag) 
