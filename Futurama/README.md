@@ -3,7 +3,7 @@
 An alien message was also found etched out on the spaceship as a remnant in the Galactic Palace. 
 Can you see if you can figure out what is written on it? (Image File)
 
-<img src="" />
+<img src="https://github.com/indraniljana/H4CKN1T_writeup_2016/blob/master/Futurama/Q6.png" />
 
 
 
@@ -14,7 +14,7 @@ I tried checking the metadata of the image and tried running all kinda weird stu
 So I just decided to google for symbol fonts and alien fonts and the type and I discovered that the font was called Futurama - the 
 name of the problem!
 
-<img src="" />
+<img src="https://github.com/indraniljana/H4CKN1T_writeup_2016/blob/master/Futurama/Q6.JPG" />
 
 After discovering the font it was easy to translate it to leet.
 
