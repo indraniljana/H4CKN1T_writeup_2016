@@ -10,7 +10,7 @@ Can you see if you can figure out what is written on it? (Image File)
 <b>Solution:</b>
 
 Looking at the image, it is obvious that the symbols are actually some weird font.
-I tried checking the metadata of the image and tried running all kinda weird stuff, but couldn't find anything suspicious.
+I tried checking the metadata of the image and tried running binwalk and stuff, but couldn't find anything suspicious.
 So I just decided to google for symbol fonts and alien fonts and the type and I discovered that the font was called Futurama - the 
 name of the problem!
 
