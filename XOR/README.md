@@ -10,4 +10,4 @@ The only thing we know about this is that the cipherkey is 4nk2k16.
 This is just a XOR cipher, as is obvious from the name.
 Deciphering using the given key gives a base64 encoded string, decoding which we get the key "1 l0v3 x0r"
 
-<img src=""/>
+<img src="https://github.com/indraniljana/H4CKN1T_writeup_2016/blob/master/XOR/x.JPG"/>
