@@ -13,7 +13,8 @@ Time to try to decompile it.
 After generating pseudocode in IDA 64bit, this is what I found:<br>
 <img src="https://github.com/indraniljana/H4CKN1T_writeup_2016/blob/master/Gateway-Pass/gate.JPG"/>
 <br>
-As is evident, the characters of the flag are stored in individual variables. What we need to do is simply convert the ASCII code to char,
+As is evident, the characters of the flag are stored in individual variables, from v8 to v28, with the last v29 counting for
+the null terminator. What we need to do is simply convert the ASCII code to char,
  and put them together to get our flag.
  
  The flag turns out to be "g00d g4m3 w3ll pl4y3d"
